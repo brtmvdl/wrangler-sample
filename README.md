@@ -3,7 +3,7 @@
 ## How to
 
 ```sh
-npx wrangler@2 dev index.js
+bash ./env/up.sh
 ```
 
 ## License
