@@ -1,4 +1,4 @@
-# Wrangler example
+# Wrangler sample
 
 ## How to
 
