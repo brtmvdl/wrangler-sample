@@ -1,8 +1,0 @@
-{
-  "name": "wrangler",
-  "version": "0.1.0",
-  "main": "index.js",
-  "devDependencies": {
-    "wrangler": "^3.0.1"
-  }
-}
